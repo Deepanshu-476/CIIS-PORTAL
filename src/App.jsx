@@ -125,7 +125,7 @@ const App = () => {
           <Box sx={{ display: 'flex', alignItems: 'center', flexGrow: 1 }}>
             <Box 
               component="img"
-              src="src/assets/logo.png"
+              src="/logo.png"
               alt=""
               sx={{ 
                 height: 40,
