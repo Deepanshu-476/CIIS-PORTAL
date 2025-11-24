@@ -1406,6 +1406,7 @@ const App = () => {
           display: "flex",
           flexDirection: "column",
           alignItems: { xs: "flex-start", md: "center" },
+          ml: { md: "-40px }
         }}
       >
         <Typography
@@ -1465,6 +1466,8 @@ const App = () => {
             mb: 2,
             fontSize: "1.1rem",
             color: "white",
+            ml: { md: "70px" },
+            alignSelf: { md: "flex-start" },
           }}
         >
           Contact Info
