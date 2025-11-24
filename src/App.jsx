@@ -1364,7 +1364,7 @@ const App = () => {
         <Box sx={{ display: "flex", alignItems: "center", mb: 4 }}>
           <Box
             component="img"
-            src="src/assets/Logo.png"
+            src="/Logo.png"
             alt="CIIS Tech Solutions"
             sx={{
               height: 50,
